@@ -1,5 +1,11 @@
 # @backstage-community/plugin-argocd
 
+## 2.5.1
+
+### Patch Changes
+
+- 1d15595: Translation added for German and Spanish
+
 ## 2.5.0
 
 ### Minor Changes
