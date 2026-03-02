@@ -1,5 +1,11 @@
 # @backstage-community/plugin-servicenow
 
+## 1.8.1
+
+### Patch Changes
+
+- 1d15595: Translation updated for German and Spanish
+
 ## 1.8.0
 
 ### Minor Changes
